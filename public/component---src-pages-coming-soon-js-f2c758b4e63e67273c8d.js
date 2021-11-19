@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby=self.webpackChunkgatsby||[]).push([[595],{6314:function(e,t,n){n.r(t);var a=n(7294),l=n(8497),c=(n(1496),n(2605)),r=(0,n(3368).Z)(c.Z);t.default=function(e){e.data;var t=r();return a.createElement(l.Z,null,a.createElement("div",{class:t.container},a.createElement("p",null," ",a.createElement("h1",null,"Whoops!"),a.createElement("h2",null,"This page hasn't been created yet..."))))}}}]);
+//# sourceMappingURL=component---src-pages-coming-soon-js-f2c758b4e63e67273c8d.js.map
